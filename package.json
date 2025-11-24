@@ -15,10 +15,10 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "5.29.0",
-    "@strapi/plugin-users-permissions": "5.29.0",
-    "@strapi/plugin-i18n": "5.29.0",
-    "@strapi/provider-upload-cloudinary": "5.29.0",
+    "@strapi/strapi": "5.7.0",
+    "@strapi/plugin-users-permissions": "5.7.0",
+    "@strapi/plugin-i18n": "5.7.0",
+    "@strapi/provider-upload-cloudinary": "5.7.0",
     "pg": "^8.7.0",
     "pg-connection-string": "^2.5.0"
   },
