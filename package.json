@@ -5,7 +5,7 @@
   "scripts": {
     "build": "strapi build",
     "console": "strapi console",
-    "develop": "NODE_ENV=development strapi start",
+    "deploy": "strapi deploy",
     "dev": "strapi develop",
     "develop": "strapi develop",
     "start": "strapi start",
@@ -20,11 +20,7 @@
     "@strapi/plugin-i18n": "^4.21.0",
     "@strapi/provider-upload-cloudinary": "^4.21.0",
     "pg": "^8.7.0",
-    "pg-connection-string": "^2.5.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-router-dom": "^5.2.0",
-    "styled-components": "^5.2.1"
+    "pg-connection-string": "^2.5.0"
   },
   "author": {
     "name": "A Strapi developer"
