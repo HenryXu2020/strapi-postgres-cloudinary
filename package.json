@@ -15,12 +15,12 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "latest",
-    "@strapi/plugin-users-permissions": "latest",
-    "@strapi/plugin-i18n": "latest",
-    "@strapi/provider-upload-cloudinary": "latest",
-    "pg": "latest",
-    "pg-connection-string": "latest"
+    "@strapi/strapi": "^5.0.0",
+    "@strapi/plugin-users-permissions": "^5.0.0",
+    "@strapi/plugin-i18n": "^5.0.0",
+    "@strapi/provider-upload-cloudinary": "^5.0.0",
+    "pg": "^8.8.0",
+    "pg-connection-string": "^2.5.0"
   },
   "author": {
     "name": "A Strapi developer"
